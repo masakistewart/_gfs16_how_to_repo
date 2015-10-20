@@ -9,3 +9,11 @@ $ git touch readme.md
 $ git add readme.md
 $ git commit -m "Innitial commit"
 ```
+### Do some work then save it
+
+```shell
+$ git status
+$ git add <whatever file>
+$ git status
+$ git commit -m "This is the message"
+```
