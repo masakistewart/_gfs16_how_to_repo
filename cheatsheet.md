@@ -23,3 +23,17 @@ $ git commit -m "This is the message"
 $ git remote add origin <the destination http/ssh key>
 $ git push -u origin master
 ```
+### forking
+__Find code.. fork code.. clone code to separate repo__
+
+```shell
+$ git clone <Cloning destination>
+```
+
+then make some changes you think are worth changing
+
+```shell
+$ git add <your file>
+$ git commit -m "explanation"
+$ git push origin master
+```
