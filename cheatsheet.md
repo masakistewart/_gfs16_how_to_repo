@@ -40,7 +40,13 @@ $ git push origin master
 
 file a pull request*** IMPORTANT DO NOT FORGET THAT THIS IS SIMPLE>>> NOT MAGIC
 
-<<<<<<< HEAD
-=======
 sss
->>>>>>> b9c9fdd504ad2ca42c3f27c66271997a274a78c8
+
+To create a branch of a file use git branch <name of the branch you want>
+use git checkout to switch in between them
+
+### Typical colaboration patterns
+
+A typical flo is fork then branch off master. then push code.
+
+
