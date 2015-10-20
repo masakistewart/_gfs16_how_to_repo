@@ -40,3 +40,7 @@ $ git push origin master
 
 file a pull request*** IMPORTANT DO NOT FORGET THAT THIS IS SIMPLE>>> NOT MAGIC
 
+<<<<<<< HEAD
+=======
+sss
+>>>>>>> b9c9fdd504ad2ca42c3f27c66271997a274a78c8
