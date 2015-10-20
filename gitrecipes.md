@@ -45,8 +45,19 @@ sss
 To create a branch of a file use git branch <name of the branch you want>
 use git checkout to switch in between them
 
+```shell
+$ git branch <branch name here>
+$ git checkout <branch to switch to>
+$ git checkout master
+$ git merge <branch name>
+```
+
+
+
 ### Typical colaboration patterns
 
-A typical flo is fork then branch off master. then push code.
+A typical flo is fork then branch off master. Do work on branch. add and commit info to branch. checkout branch to master then merge branches.
+push info to github and submit pull request.
+
 
 
