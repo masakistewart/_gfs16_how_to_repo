@@ -17,3 +17,9 @@ $ git add <whatever file>
 $ git status
 $ git commit -m "This is the message"
 ```
+### sharework with the world!!!
+
+```shell
+$ git remote add origin <the destination http/ssh key>
+$ git push -u origin master
+```
