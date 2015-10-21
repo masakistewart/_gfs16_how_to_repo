@@ -61,3 +61,14 @@ push info to github and submit pull request.
 
 
 
+### adding aliases
+
+Git doesn’t automatically infer your command if you type it in partially. If you don’t want to type the entire text of each make these changes:
+
+```shell
+$ git config --global alias.co checkout
+$ git config --global alias.br branch
+$ git config --global alias.ci commit
+$ git config --global alias.st status
+```
+
